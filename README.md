@@ -1,10 +1,19 @@
-# **Muy buenas**
+# **Muy buenas :wave:**
 
 ## ***Este es***
 
 ### _Mi perfil_
 
 #### **De Github** <sub>:)</sub>
+
+##Índice
+
+*[Introducción](# **Muy buenas :wave:**)
+
+*[Insignias](#insignias)
+
+*[Índice](#índice)
+
 
 1. Para empezar
 
