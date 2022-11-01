@@ -46,9 +46,9 @@ En esta tabla encontraréis unos pocos comandos para empezar a utilizar git:
 
 | Comando :floppy_disk:| Descripción :closed_book:|
 | --- | --- |
-| `git status` | Sirve para visualizar toda la información necesaria sobre la rama actual |
-| `git clone` | Sirve para descargar un código fuente desde un repositorio remoto |
-| `git checkout` | Sirve para cambiarte de una rama a otra |
+| `git status` | Sirve para visualizar toda la información necesaria sobre la rama actual. |
+| `git clone` | Sirve para descargar un código fuente desde un repositorio remoto. |
+| `git checkout` | Sirve para cambiarte de una rama a otra. |
 
 Por último aquí tenéis el área de un triángulo equilatero en java:
 
