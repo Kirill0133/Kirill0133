@@ -52,7 +52,7 @@ En esta tabla encontraréis unos pocos comandos para empezar a utilizar git:
 
 Por último aquí tenéis el área de un triángulo equilatero en java:
 
-<?php
+```java
 
 import java.util.Scanner;
 class AreadeunTrianguloequilatero
