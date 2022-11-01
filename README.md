@@ -1,20 +1,16 @@
-# **Muy buenas :wave:**
+### **Muy buenas :wave:**
 
-## ***Este es***
-
-### _Mi perfil_
-
-#### **De Github** <sub>:)</sub>
+### ***Este es***  _mi perfil_ **de Github** <sub>:)</sub>
 
 
-**Índice**   
-1. [Primer apartado](#id1)
-2. [Segundo apartado](#id2)
-## Primer apartado<a name="id1"></a>
-Texto del primer apartado
-## Segundo apartado<a name="id2"></a>
-Texto del segundo apartado
+# **Índice**   
 
+1. [Listas](#id1)
+
+2. [Información sobre la actividad y enlaces](#id2)
+
+
+## Mis listas: <a name="id1"></a>
 
 1. Para empezar
 
@@ -33,6 +29,8 @@ Texto del segundo apartado
 - Esta última lista
 
 - Estará desordenada
+
+## Información sobre la actividad y enlaces: <a name="id2"></a>
 
 ### Aquí encontaréis mi web sobre [ordenadores](https://ordenadoreskirill.blogspot.com) :computer:
 
