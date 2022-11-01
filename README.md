@@ -9,6 +9,11 @@
 
 2. [Información sobre la actividad y enlaces](#id2)
 
+3. [Tabla de comandos](#id3)
+
+4. [Código Java sobre el área de un triángulo equilátero](#id4)
+
+
 
 ## Mis listas: <a name="id1"></a>
 
@@ -30,6 +35,8 @@
 
 - Estará desordenada
 
+
+
 ## Información sobre la actividad y enlaces: <a name="id2"></a>
 
 ### Aquí encontaréis mi web sobre [ordenadores](https://ordenadoreskirill.blogspot.com) :computer:
@@ -41,6 +48,10 @@ En el caso de no poder verlo, aquí tenéis una imagen con dicha actividad:
 
 ![image](https://user-images.githubusercontent.com/115732537/199343801-7cd23343-e067-4f6f-abcf-fbb2bfb5e9e9.png)
 
+
+
+## Tabla de comandos: <a name="id3"></a>
+
 En esta tabla encontraréis unos pocos comandos para empezar a utilizar git:
 
 | Comando :floppy_disk:| Descripción :closed_book:|
@@ -48,6 +59,10 @@ En esta tabla encontraréis unos pocos comandos para empezar a utilizar git:
 | `git status` | Sirve para visualizar toda la información necesaria sobre la rama actual. |
 | `git clone` | Sirve para descargar un código fuente desde un repositorio remoto. |
 | `git checkout` | Sirve para cambiarte de una rama a otra. |
+
+
+
+## Código Java sobre el área de un triángulo equilátero: <a name="id4"></a>
 
 Por último aquí tenéis el área de un triángulo equilatero en java:
 
