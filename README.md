@@ -1,16 +1,25 @@
-### Hi there 👋
+# **Muy buenas**
 
-<!--
-**Kirill0133/Kirill0133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ***Este es***
 
-Here are some ideas to get you started:
+### _Mi perfil_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### **De Github** <sub>:)</sub>
+
+1. Para empezar
+
+2. Esta lista
+
+3. Estará ordenada
+
+- Y para terminar
+
+- Esta lista
+
+- Está desordenada
+
+Este read.me esta destinado para la actividad de [Entornos de 1ºDAM](https://aulavirtual33.educa.madrid.org/ies.laarboleda.alcorcon/mod/assign/view.php?id=23924)
+> (Se tiene que haber iniciado sesión en Educa Madrid con anterioridad para poder verlo :sweat_smile:)
+
+Asimismo, aquí encontaréis una web que hice sobre [ordenadores](https://ordenadoreskirill.blogspot.com) :computer:
+
