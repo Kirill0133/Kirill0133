@@ -55,7 +55,7 @@ Por último aquí tenéis el área de un triángulo equilatero en java:
 ```java
 
 import java.util.Scanner;
-class AreadeunTrianguloequilatero
+class AreadeunTrianguloEquilatero
 {
   public static void main(String args[])
   {
