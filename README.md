@@ -40,3 +40,20 @@ En esta tabla encontraréis unos pocos comandos para empezar a utilizar git:
 | `git status` | Sirve para visualizar toda la información necesaria sobre la rama actual |
 | `git clone` | Sirve para descargar un código fuente desde un repositorio remoto |
 | `git checkout` | Sirve para cambiarte de una rama a otra |
+
+Por último aquí tenéis el área de un triángulo equilatero en java:
+
+<?php
+
+import java.util.Scanner;
+class AreadeunTrianguloequilatero
+{
+  public static void main(String args[])
+  {
+    Scanner s=new Scanner(System.in);
+    System.out.println("Dame el lado del triángulo"):
+    double a= s.nextDouble();
+    double  area=(Math.sqrt(3)/4)*(a*a);
+    System.out.println("El área del triángulo es " + area);
+  }
+}
